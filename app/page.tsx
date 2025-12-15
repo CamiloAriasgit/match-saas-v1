@@ -13,7 +13,7 @@ export default function LandingPageSimple() {
 
       {/* Título y Propuesta de Valor */}
       <header className="text-center mb-12">
-        <h1 className="text-3xl font-extrabold shadow-2xl shadow-fuchsia-600 text-indigo-500 mb-4 tracking-tight">
+        <h1 className="text-3xl font-extrabold text-indigo-500 mb-4 tracking-tight">
           <span className='text-purple-500'>i</span>Match
         </h1>
         <p className="text-xl text-neutral-200 max-w-3xl mx-auto font-light">
