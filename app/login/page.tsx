@@ -40,12 +40,12 @@ export default function LoginPage() {
   };
 
   return (
-    <div className="min-h-screen flex items-center justify-center bg-gray-50 p-4">
-      <div className="w-full max-w-md bg-white p-8 rounded-xl shadow-2xl">
-        <h2 className="text-3xl font-extrabold text-gray-900 text-center mb-6">
+    <div className="min-h-screen flex items-center justify-center bg-purple-950 p-4">
+      <div className="w-full max-w-md bg-purple-900 p-8 rounded-xl shadow-2xl">
+        <h2 className="text-3xl font-extrabold text-neutral-200 text-center mb-6">
           Inicia Sesión o Regístrate
         </h2>
-        <p className="text-center text-sm text-gray-600 mb-8">
+        <p className="text-center text-sm text-neutral-300 mb-8">
           Acceso rápido, solo necesitamos tu email y contraseña.
         </p>
         
